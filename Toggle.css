@@ -1,0 +1,6 @@
+
+
+.app {
+    text-align: center; /* this will create element in center of window*/
+    border-style: dashed; /* this will create dashed as a border out side of our element*/
+  }
